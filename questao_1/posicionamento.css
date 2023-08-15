@@ -1,0 +1,35 @@
+.esqcima {
+    background-color: red;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 150px;
+    width: 150px;
+}
+
+.esqbaixo {
+    background-color: green;
+    position: relative;
+    bottom: a;
+    left: 0;
+    height: 150px;
+    width: 150px;
+}
+
+.dircima {
+    background-color: yellow;
+    position: relative;
+    top: a;
+    right: a;
+    height: 150px;
+    width: 150px;
+}
+
+.dirbaixo {
+    background-color: blue;
+    position: relative;
+    bottom: a;
+    right: a;
+    height: 150px;
+    width: 150px;
+}
